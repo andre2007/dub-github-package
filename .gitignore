@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/dub-github-package
+dub-github-package.so
+dub-github-package.dylib
+dub-github-package.dll
+dub-github-package.a
+dub-github-package.lib
+dub-github-package-test-*
+*.exe
+*.o
+*.obj
+*.lst
